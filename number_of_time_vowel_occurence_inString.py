@@ -1,4 +1,4 @@
-#Program for count how many time vowel occurs in string
+#Program for count how many time particular vowel occurs in string
 
 Main_string=input("ENter the String:")
 vowel_list=["a","e","i","o","u"]        
